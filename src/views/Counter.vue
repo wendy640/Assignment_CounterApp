@@ -53,7 +53,7 @@
                 class="card-footer d-flex justify-content-between align-items-center penguin-card-footer"
               >
                 <div>
-                  <h3 class="price-text-style">3200Rs</h3>
+                  <h3 class="price-text-style">$3200</h3>
                 </div>
                 <div>
                   <button type="button" class="btn penguin-btn">
@@ -81,7 +81,7 @@
                 class="card-footer d-flex justify-content-between align-items-center penguin-card-footer"
               >
                 <div>
-                  <h3 class="price-text-style">2500Rs</h3>
+                  <h3 class="price-text-style">$2500</h3>
                 </div>
                 <div>
                   <button type="button" class="btn penguin-btn">
@@ -108,7 +108,7 @@
                 class="card-footer d-flex justify-content-between align-items-center penguin-card-footer"
               >
                 <div>
-                  <h3 class="price-text-style">5000Rs</h3>
+                  <h3 class="price-text-style">$5000</h3>
                 </div>
                 <div>
                   <button type="button" class="btn penguin-btn">
@@ -143,7 +143,7 @@
                 class="card-footer d-flex justify-content-between align-items-center penguin-card-footer"
               >
                 <div>
-                  <h3 class="price-text-style">3500Rs</h3>
+                  <h3 class="price-text-style">$3500</h3>
                 </div>
                 <div>
                   <button type="button" class="btn penguin-btn">
@@ -171,7 +171,7 @@
                 class="card-footer d-flex justify-content-between align-items-center penguin-card-footer"
               >
                 <div>
-                  <h3 class="price-text-style">4500Rs</h3>
+                  <h3 class="price-text-style">$4500</h3>
                 </div>
                 <div>
                   <button type="button" class="btn penguin-btn">
@@ -198,7 +198,7 @@
                 class="card-footer d-flex justify-content-between align-items-center penguin-card-footer"
               >
                 <div>
-                  <h3 class="price-text-style">3000Rs</h3>
+                  <h3 class="price-text-style">$3000</h3>
                 </div>
                 <div>
                   <button type="button" class="btn penguin-btn">
@@ -313,14 +313,13 @@
             <h5>Contact us:</h5>
             <hr />
             <p>
-              <i class="fa fa-map-marker fa-1x"> </i>Shradha Park, B-37/39
-              Hingna–Wadi Link Road, Nagpur - 440016.
+              <i class="fa fa-map-marker fa-1x"> </i> Opp.GreenVille Estate,Badore Road,Ajah-Lagos,Lagos State,  Nigeria
             </p>
             <p>
               <i class="fa fa-envelope-open"></i>
-              vaibhav.mathane.cse@ghrietn.raisoni.net
+              chinwe640@gmail.com
             </p>
-            <p><i class="fa fa-phone"></i> +911234567891</p>
+            <p><i class="fa fa-phone"></i> +2347066171925</p>
           </div>
           <div class="col-sm pe-5 pt-3">
             <div>
@@ -341,8 +340,8 @@
       <footer>
         <hr />
         <p class="text-center">
-          © Winter Fashion 2021, all rights reserved by Vaibhav Mathane B_61 CSE
-          5th Sem 3rd Year
+          © Winter Fashion 2021, all rights reserved by my first vue project: <b>Chinwendu Enyidiegwu</b>  
+         @AltSchool Africa, 3rd Semester Project
         </p>
       </footer>
     </section>
@@ -404,8 +403,8 @@ background-color:rgba(250, 190, 76, 1);
   color: white;
 }
 .value{
-  display:block;
- margin: auto;
+  margin-right: 6px;
+ margin-left: 6px;
  padding: 10px 3px;
  background-color: #ffff;
  border-radius: 10px;

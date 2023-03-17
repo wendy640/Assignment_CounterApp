@@ -6,7 +6,7 @@
     <h1>Coming soon......</h1>
   </div>
 </template>
-<style>
+<style scoped >
 *{
   background-color: rgba(255, 251, 240, 1);
  
