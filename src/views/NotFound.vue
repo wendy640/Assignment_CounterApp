@@ -7,6 +7,7 @@
 *{
   background-color: rgba(255, 251, 240, 1);
   justify-content: center;
+ 
 }
 .notFound{
   display: flex;
